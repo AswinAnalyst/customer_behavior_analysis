@@ -132,6 +132,6 @@ customer_behavior_analysis/
 ├── Customer_Shopping_Behaviour_Analysis.ipynb # Python: load + clean data
 ├── customer_behaviour_analysis.sql # SQL queries
 ├── customer_behaviour_dashboard.pbix # Power BI dashboard
-├── README.md # Documentation
+├── README.md # Documentation  
 
 ### 1. Clone the repository
